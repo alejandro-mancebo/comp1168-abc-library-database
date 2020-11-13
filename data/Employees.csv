@@ -1,0 +1,6 @@
+EmployeeID,FirstName,LastName,StartDate,EndDate,Salary,StreetNumber,StreetName,City,Province,PostalCode,PhoneNumber
+1,Edna,Smith,2018-01-01,,34000,32,Danforth Ave,Toronto,ON,M4C2F2,4325556785
+2,William,Shakespeare,2018-01-01,,0,45,Queen St,Toronto,ON,M4C3H3,3452222134
+3,Friar,Tuck,2018-05-05,,25000,33,Victoria Park Ave,Toronto,ON,M4C3H2,6758880022
+4,Marcus,Smith,2018-06-04,,25000,22,Gerard St,Toronto,ON,M4C2H1,4357778565
+5,Bart,Simpson,2018-01-01,2018-01-02,0,45,Gerard St,Toronto,ON,M4C2H2,2342220987

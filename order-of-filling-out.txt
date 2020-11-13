@@ -1,0 +1,21 @@
+Order of fill out
+First Tables:
+- People
+- Author
+- Publisher
+- Types
+- Subjects
+- Position
+
+Second Tables:
+- Patrons
+- Staff
+- Collection
+
+Third:
+- Collection_has_Subjects
+- Collection_has_Autos
+- Loans
+
+Forth:
+- Loans_has_Collection

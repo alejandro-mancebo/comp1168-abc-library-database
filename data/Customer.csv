@@ -1,0 +1,11 @@
+CustomerID,FirstName,LastName,ItemsBorrowed,BalanceDue,StreetNameNumber,Apartment,City,Province,PostalCode,PhoneNumber,Membership_MembershipType
+100001,Robert,Francis,NULL,NULL,"22 Victoria Park Ave",NULL,Toronto,ON,M4C2W2,9054442222,Silver
+100011,Jennifer,Smith,NULL,NULL,"33 Steeles Avenue",NULL,"North York",ON,M2H9J2,6667778902,Gold
+100012,Marcus,Roberts,NULL,NULL,"101 Yonge St",NULL,Toronto,ON,M2S7D7,9097774567,Bronze
+100013,Edward,Thethird,NULL,NULL,"1001 Queen St",NULL,Toronto,ON,M8K2L2,5551344998,Silver
+100014,Darren,Smith,NULL,NULL,"2240 Gerard St",NULL,Toronto,ON,M8K7H6,4563332785,Gold
+100015,Goldie,Locks,NULL,NULL,"847 Bathurst St",NULL,Toronto,ON,M7H5V5,6045673334,Silver
+100016,Snow,White,NULL,NULL,"333 Bathurst St",NULL,Toronto,ON,M9H2G4,7654323322,Silver
+100017,Muffin,Man,NULL,NULL,"22 Drury Lane",NULL,Toronto,ON,M7H6G5,5674443311,Silver
+100018,Ariel,Themerm,NULL,NULL,"777 Bathurst St",NULL,Toronto,ON,M8H2G2,5672223311,Bronze
+100019,Jason,Voorhees,NULL,NULL,"22 34th Street",NULL,Toronto,ON,M9H2G2,8657777065,Bronze

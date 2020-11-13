@@ -1,0 +1,11 @@
+Index_Number,Title,Edition,CopiesAvailable,TotalCopies,Date_Released,Publisher_PublisherName,ProductType_ProductType
+101,"Thomas the Tank Engine",1st,1,2,1999-01-01,"George Brown Press",Book
+102,"35 Shades of Orange",2nd,2,2,2014-03-02,"Sam's Printing",Book
+103,"Die Sort Of",1st,1,2,2001-12-12,"Ma's Inexpensive Printing",DVD
+104,"Blues Compilation",,0,1,1988-01-01,"Warner Brothers",CD
+105,"Jazz Fest '09",3rd,0,1,2010-03-05,"Paramount Records",CD
+106,"The little Giant",1st,2,3,2008-07-08,RandomHouse,Book
+107,"The Lonely Dog",1st,2,3,2001-01-01,"Lightfeather Books",Book
+108,"The Best of Abba 2",2nd,0,3,2001-04-03,"Sony Records",CD
+109,"The Kiss Quotient",1st,1,2,2004-05-04,"Austin McCauley",Book
+110,Cosmopolitan,57th,1,1,2003-01-01,"Paramount Records",Book
